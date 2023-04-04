@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(233, 238, 240);
+}
+h1{
+    font-size: 40px;
+    text-decoration: underline;
+    color:rgb(225, 25, 25);
+}
+h3{
+    color:red;
+}
